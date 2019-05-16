@@ -12,5 +12,5 @@ ToDo List using AngularJS. Written and developed using CodePen
 
 ## Authors :
 
-Aamir Syed - 1MS16CS119 , Sem: 6 , Section: C
-Miskin Dash - 1M16CS055 , Sem: 6 , Section: B 
+- Aamir Syed - 1MS16CS119 , Sem: 6 , Section: C
+- Miskin Dash - 1M16CS055 , Sem: 6 , Section: B 
